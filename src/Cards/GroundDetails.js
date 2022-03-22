@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import './stadium-info.css'
+import './ground-info.css'
 
 class  GroundDetails extends Component {
     constructor(props) {
